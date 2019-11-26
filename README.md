@@ -1,2 +1,2 @@
 # Python-Learning
-My repository for my Python projects from self and academic learning.
+My repository for my Python projects from self learning.

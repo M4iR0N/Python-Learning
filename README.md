@@ -1,7 +1,7 @@
 # Python-Learning
 My repository for my Python projects from self learning.
 
-<h1><b>Python</b></h1>
+<h1><b>Python :snake:</b></h1>
 
 <h2><b>Beginner</b></h2>
 Data Type - Strings, Ints, Floats, Booleans, Lists, Tuples, Dictionaries.
